@@ -1,0 +1,10 @@
+# Python environment and IDE
+.venv/
+.idea/
+.junie/
+__pycache__/
+.ipynb_checkpoints/
+
+# Data is not committed: see data/raw/README.md to reproduce it
+data/raw/*.csv
+data/processed/*.csv
